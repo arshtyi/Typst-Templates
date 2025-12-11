@@ -9,9 +9,13 @@
 ## Template list
 
 -   sdu
+
     -   report
         -   intro_to_ai
         -   computer_network
+        -   intro_to_computing
+
+-   note
 
 ## ref & thx
 
