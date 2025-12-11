@@ -3,7 +3,7 @@
 
 #show: report.with(
     institute: "计算机科学与技术",
-    course: "人工智能引论",
+    course: "计算机网络",
     student-id: "202512111715",
     student-name: "Arshtyi",
     date: datetime.today(),
@@ -15,13 +15,18 @@
     set image(width: 67%)
     it
 }
-
 #exp-block([
-    = 实验过程
-    （记录实验过程、遇到的问题和实验结果。可以适当配以关键代码辅助说明，但不要大段贴代码。）
-    #v(10em)
+    = 实验目的
+])
+#exp-block([
+    = 硬件环境
+])
+#exp-block([
+    = 软件环境
+])
+#exp-block([
+    = 实验步骤与内容
 ])
 #exp-block([
     = 结果分析与体会
-    #v(15em)
 ])

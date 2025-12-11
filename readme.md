@@ -2,11 +2,16 @@
 
 一些个人常用的 Typst Templates.所以模板的效果见`example/`
 
+## Environment
+
+-   Typst:0.14.1
+
 ## Template list
 
 -   sdu
     -   report
         -   intro_to_ai
+        -   computer_network
 
 ## ref & thx
 
