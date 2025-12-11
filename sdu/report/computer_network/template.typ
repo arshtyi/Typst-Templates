@@ -203,7 +203,10 @@
             align: left + horizon,
             inset: 0.5em,
             columns: (3fr, 2fr, 2fr, 2.5fr),
-            [学号： #student-id], [姓名： #student-name], [班级：#class], [日期： #date.display()],
+            [学号： #student-id],
+            [姓名： #student-name],
+            [班级：#class],
+            [日期： #date.display("[year].[month].[day]")],
         )
         #v(0em, weak: true)
         #table(

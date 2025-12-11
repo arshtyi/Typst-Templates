@@ -202,15 +202,15 @@
         #table(
             inset: 0.5em,
             align: left + horizon,
-            columns: (3fr,1.5fr),
-            [题目：#lab-title],[学号： #student-id],
+            columns: (3fr, 1.5fr),
+            [题目：#lab-title], [学号： #student-id],
         )
         #v(0em, weak: true)
         #table(
             align: left + horizon,
             inset: 0.5em,
-            columns: ( 3fr, 2fr, 2fr),
-           [日期：#date.display()],[班级：#class],[姓名：#student-name],
+            columns: (3fr, 2fr, 2fr),
+            [日期：#date.display("[year].[month].[day]")], [班级：#class], [姓名：#student-name],
         )
 
     ]

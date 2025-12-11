@@ -217,7 +217,7 @@
             inset: 0.5em,
             align: left + horizon,
             columns: (2fr, 2fr),
-            [实验学时：#exp-time], [实验日期：#date.display()],
+            [实验学时：#exp-time], [实验日期：#date.display("[year].[month].[day]")],
         )
     ]
     v(0em, weak: true)
