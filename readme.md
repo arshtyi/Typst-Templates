@@ -14,6 +14,7 @@
         -   intro_to_ai
         -   computer_network
         -   intro_to_computing
+        -   principle_of_blockchain
 
 -   note
 
