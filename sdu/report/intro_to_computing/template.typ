@@ -32,13 +32,12 @@
 
 #let report(
     institute: "计算机科学与技术",
-    course: "人工智能引论",
+    course: "计算概论",
     student-id: "202512111715",
     student-name: "Arshtyi",
     date: datetime.today(),
     lab-title: "实验题目",
     class: "你的班级",
-    exp-time: "实验时间",
     body,
 ) = {
     set text(
@@ -65,7 +64,7 @@
 
     set heading(
         numbering: numbly(
-            "{1:一} ",
+            none,
             "{2:1}.",
             "({3:1})", // here, we only want the 3rd level
         ),
@@ -199,26 +198,21 @@
     [
         #set par(justify: true)
         #set text(size: 字号.小四)
+
         #table(
-            align: left + horizon,
             inset: 0.5em,
-            columns: (3.1fr, 2.7fr, 2.9fr),
-            [学号： #student-id], [姓名： #student-name], [班级：#class],
+            align: left + horizon,
+            columns: (3fr,1.5fr),
+            [题目：#lab-title],[学号： #student-id],
         )
         #v(0em, weak: true)
         #table(
-            inset: 0.5em,
             align: left + horizon,
-            columns: 4fr,
-            [实验题目：#lab-title],
-        )
-        #v(0em, weak: true)
-        #table(
             inset: 0.5em,
-            align: left + horizon,
-            columns: (2fr, 2fr),
-            [实验学时：#exp-time], [实验日期：#date.display()],
+            columns: ( 3fr, 2fr, 2fr),
+           [日期：#date.display()],[班级：#class],[姓名：#student-name],
         )
+
     ]
     v(0em, weak: true)
     show heading.where(depth: 1): it => {
