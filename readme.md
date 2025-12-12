@@ -17,6 +17,17 @@
         -   common-lab
 -   note
 
+## Other
+
+以下类型的模板已经有足够成熟的项目:
+
+-   sdu-ppt
+    -   [Dregen-Yor](https://github.com/Dregen-Yor) for [sdu-touying-simpl](https://github.com/Dregen-Yor/sdu-touying-simpl)
+-   sdu-thesis
+    -   [GrooveWJH](https://github.com/GrooveWJH) for [unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis)
+-   数模模板
+    -   [a-kkiri](https://github.com/a-kkiri) for [CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template)
+
 ## Ref & Thx
 
 -   [Dregen-Yor](https://github.com/Dregen-Yor) for [sdu-exp-report](https://github.com/Dregen-Yor/sdu-exp-report)
