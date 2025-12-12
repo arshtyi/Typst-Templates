@@ -47,8 +47,7 @@
     | 符号 | 意义 | | - | - |
 ]) <table:notation>
 
-#set page(numbering: "1")
-#counter(page).update(1)
+#counter(page).update(0)
 #show: footer
 = 线性代数基础
 == 线性空间与内积空间
