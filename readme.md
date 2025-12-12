@@ -1,24 +1,23 @@
 # Typst Templates
 
-一些个人常用的 Typst Templates.所有模板的效果见`example/`
+一些的 Typst Templates.所有模板的效果见 `example/`
 
 ## Environment
 
--   Typst:0.14.1
+-   Typst : 0.14.1
 
 ## Template list
 
 -   sdu
-
     -   report
         -   intro_to_ai
         -   computer_network
         -   intro_to_computing
         -   principle_of_blockchain
-
+        -   common-lab
 -   note
 
-## ref & thx
+## Ref & Thx
 
 -   [Dregen-Yor](https://github.com/Dregen-Yor) for [sdu-exp-report](https://github.com/Dregen-Yor/sdu-exp-report)
 -   [Kisechan](https://github.com/Kisechan) for [Probability-Statistics-Notes](https://github.com/Kisechan/Probability-Statistics-Notes)

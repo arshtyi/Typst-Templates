@@ -64,7 +64,7 @@
 
     set heading(
         numbering: numbly(
-            none,
+            "{1:1}",
             "{2:1}.",
             "({3:1})", // here, we only want the 3rd level
         ),
