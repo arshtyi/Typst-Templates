@@ -1,7 +1,6 @@
 // This is the main entry point for the note of Numerical Linear Algebra
 #import "template.typ": *
 
-#show: conf
 #show: ori.with(
     title: "数学",
     author: "Arshtyi",
@@ -19,7 +18,7 @@
     lang: "en",
     // region: "cn",
 )
-
+#show: conf
 
 #set page(numbering: none)
 #align(center)[
