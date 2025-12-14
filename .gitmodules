@@ -1,3 +1,3 @@
-[submodule "sdu/report/common-lab"]
-	path = sdu/report/common-lab
-	url = https://github.com/Arshtyi/SDU-Common-Lab-Report-Template
+[submodule "sdu/report/lab"]
+	path = sdu/report/lab
+	url = https://github.com/Arshtyi/SDU-Lab-Report
