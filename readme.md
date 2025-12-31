@@ -14,7 +14,8 @@
         -   computer_network
         -   intro_to_computing
         -   principle_of_blockchain
-        -   common-lab
+        -   6s
+        -   autonomous_intelligent_systems_and_robotics
 -   note
 
 ## Other
