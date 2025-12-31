@@ -1,6 +1,6 @@
 # Typst Templates
 
-一些的 Typst Templates.所有模板的效果见 `example/`
+一些常用的 Typst Templates.所有模板的效果见 `example/`
 
 ## Environment
 
@@ -27,6 +27,8 @@
     -   [GrooveWJH](https://github.com/GrooveWJH) for [unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis)
 -   数模模板
     -   [a-kkiri](https://github.com/a-kkiri) for [CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template)
+-   sdu-lab
+    -   [Arshtyi](https://github.com/Arshtyi) for [SDU-Lab-Report](https://github.com/Arshtyi/SDU-Lab-Report)
 
 ## Ref & Thx
 
