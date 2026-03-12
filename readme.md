@@ -9,14 +9,15 @@
 ## Template list
 
 - sdu
-    - report
-        - intro_to_ai
-        - computer_network
-        - intro_to_computing
-        - principle_of_blockchain
-        - 6s
-        - autonomous_intelligent_systems_and_robotics
-        - computer_composition_and_system_structure
+  - report
+    - intro_to_ai
+    - computer_network
+    - intro_to_computing
+    - principle_of_blockchain
+    - 6s
+    - autonomous_intelligent_systems_and_robotics
+    - computer_composition_and_system_structure
+  - machine_learning_and_pattern_recognition
 - note
 
 ## Other
@@ -24,13 +25,13 @@
 以下类型的模板已经有足够成熟的项目:
 
 - sdu-ppt
-    - [Dregen-Yor](https://github.com/Dregen-Yor) for [sdu-touying-simpl](https://github.com/Dregen-Yor/sdu-touying-simpl)
+  - [Dregen-Yor](https://github.com/Dregen-Yor) for [sdu-touying-simpl](https://github.com/Dregen-Yor/sdu-touying-simpl)
 - sdu-thesis
-    - [GrooveWJH](https://github.com/GrooveWJH) for [unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis)
+  - [GrooveWJH](https://github.com/GrooveWJH) for [unofficial-sdu-thesis](https://github.com/GrooveWJH/unofficial-sdu-thesis)
 - 数模模板
-    - [a-kkiri](https://github.com/a-kkiri) for [CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template)
+  - [a-kkiri](https://github.com/a-kkiri) for [CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template)
 - sdu-lab
-    - [Arshtyi](https://github.com/Arshtyi) for [SDU-Lab-Report](https://github.com/Arshtyi/SDU-Lab-Report)
+  - [Arshtyi](https://github.com/Arshtyi) for [SDU-Lab-Report](https://github.com/Arshtyi/SDU-Lab-Report)
 
 ## Ref & Thx
 
