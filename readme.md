@@ -17,6 +17,7 @@
     - 6s
     - autonomous_intelligent_systems_and_robotics
     - computer_composition_and_system_structure
+    - database_system
   - machine_learning_and_pattern_recognition
 - note
 
